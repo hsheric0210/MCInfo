@@ -1,0 +1,7 @@
+name: MCInfo
+version: 1.5
+main: com.eric0210.mcinfo.MCInfo
+author: eric0210_
+commands: 
+  mcinfo:
+    description: print minecraft status information
